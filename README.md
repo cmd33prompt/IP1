@@ -9,7 +9,8 @@
   skills, interests, and hobbies, as well as links that will redirect you to other HTML projects that I myself have worked on.
 
 # This project was created by use of HTML and CSS, in which both languages were edited by Sublime 3. Git commands were also used through commandline to
-  make changes and publish to the online repository.	
+  make changes and publish to the online repository.
+	
 
 # Accessing the website is easy, simply open this link. https://cmd33prompt.github.io/IP1/
 
