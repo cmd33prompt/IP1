@@ -6,13 +6,13 @@
 # Thank you once again for checking out my website :D. This is my first ever webpage hosted by GitHub.
 
 # My project consist a little personal information about me, things such us my education, reason for wanting to learn to program,
-  skills, interests, and hobbies, as well as links that will redirect you to other HTML projects that I myself have worked on.
+# skills, interests, and hobbies, as well as links that will redirect you to other HTML projects that I myself have worked on.
 
-# This project was created by use of HTML and CSS, in which both languages were edited by Sublime 3. Git commands were also used through commandline to
+# This project was created by use of HTML and CSS, in which both languages were edited by Sublime # Git commands were also used through commandline to
   make changes and publish to the online repository.
 	
 
-# Accessing the website is easy, simply open this link. https://cmd33prompt.github.io/IP1/
+# Accessing the website is simple, simply open this link. https://cmd33prompt.github.io/IP1/
 
 The MIT License
 
