@@ -1,1 +1,77 @@
-body {background: grey}
+body {background: grey;
+	font-size:22px ;
+	background-image: url(../images/paul-gilmore-600049-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+html {
+	min-height: 100%;
+}
+h4 {
+	color: steelblue;
+}
+
+#p {
+	text-align: center;
+	border: 1px black;
+	margin: 1px;
+	background-color: black;
+	background-position: relative;
+	position: relative;
+	left:0px;
+	top:800px;
+	max-height: 100px;
+
+
+	
+}
+
+p {color: white}
+img {
+  float: left;
+  padding-top: 121px;
+  width:700px;height:700px;
+  
+}
+.strong {
+	color: salmon;
+}
+.space {
+	text-align: justify;
+	padding-top: 840px;
+	padding-bottom: 40px; 
+	width:750px;
+	float: right;
+
+  	position: relative;
+  	left: -30%; /* or right 50% */
+}
+#spac {
+	padding-top: 1px;
+	text-align: justify;
+	float: right;
+	text-align: left;
+	width: 400px;
+}
+.orange {
+	color: red;
+	font-weight: normal;
+}
+.white {
+	color:#ffffff;
+}
+.yellow {
+	color:#000000;
+}
+
+.coloredlinks a {
+	font-weight: bold;
+  color: gold;
+}
+
+.vl {
+	border-left: 4000px solid #133D9A;
+    height: 6px;
+}
